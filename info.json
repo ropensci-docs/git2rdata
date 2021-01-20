@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "c0fb0583fe72340250a6db66fd983f734e16dbd6",
+    "author": "Thierry Onkelinx <ThierryO@users.noreply.github.com>",
+    "time": "2021-01-20 18:47:50",
+    "files": 8,
+    "merge": true,
+    "message": "Merge pull request #64 from ropensci/0.3.1\n\n0.3.1"
+  },
+  "remote": "https://github.com/ropensci/git2rdata",
+  "pkg": "git2rdata"
+}
