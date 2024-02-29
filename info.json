@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "f11496864dbe6bf3538febfd2f23c8940d47af0b",
+    "author": "Thierry Onkelinx <ThierryO@users.noreply.github.com>",
+    "time": "2022-03-17 13:30:33",
+    "files": 85,
+    "merge": true,
+    "message": "Release version 0.4.0\n\n"
+  },
+  "repo": "https://github.com/ropensci/git2rdata",
+  "pkg": "git2rdata"
+}
