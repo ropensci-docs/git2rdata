@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "513d2363d505fba68a263f9da8dd5b96249ff97e",
+    "author": "Thierry Onkelinx <ThierryO@users.noreply.github.com>",
+    "time": "2026-04-09T07:44:33Z",
+    "files": 23,
+    "merge": true,
+    "message": "0.5.2 (#85)\n\nfix #81 "
+  },
+  "repo": "https://github.com/ropensci/git2rdata",
+  "pkg": "git2rdata",
+  "time": "2026-08-30T07:13:47Z"
+}
